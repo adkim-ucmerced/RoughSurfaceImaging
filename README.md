@@ -1,7 +1,7 @@
 # RoughSurfaceImaging
 SAR imaging below a random rough surface
 
-This collection of Matlab codes were used to compute the simulation results contained in the manuscript "Synthetic aperture radar imaging below a random rough surface" by A. D. Kim and C. Tsogka.
+This collection of Matlab codes were used to compute the simulation results contained in the manuscript "Synthetic aperture radar imaging below a random rough surface" by A. D. Kim and C. Tsogka (<i>Radio Science</i> <b>58</b>(12), e2023RS007712 (2023), DOI: https://doi.org/10.1029/2023RS007712).
 
 The code "BistaticXSect.m" is the main driver to compute the bistatic cross-section for the random rough surfaces used in this study. It produces the plots corresponding to Fig. 2 in the manuscript.
 
